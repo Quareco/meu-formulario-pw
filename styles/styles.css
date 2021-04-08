@@ -1,0 +1,60 @@
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    color: white;
+    border: solid 5px;
+    border-color: rgb(27, 15, 7);
+    padding-left: 30%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-image: url("https://i.pinimg.com/600x315/36/4a/ba/364abaf2f5643967e3b4b626ddb5040c.jpg");
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+body {
+    background-image: url("https://wallpapercave.com/wp/wp2361298.jpg");
+    background-position-x: -1%;
+    background-size: 1893px 1000px;
+}
+
+.classes {
+    border: solid 5px;
+    border-color: rgb(27, 15, 7);
+    background-image: url("https://i.pinimg.com/600x315/36/4a/ba/364abaf2f5643967e3b4b626ddb5040c.jpg");
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    padding-left: 50px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-right: 50px;
+    color: white;
+    height: 400px;
+}
+
+.nome {
+    padding-bottom: 30px;
+
+}
+
+.clas {
+    padding-bottom: 30px;
+}
+
+.raca {
+    padding-bottom: 30px;
+}
+
+.data {
+    padding-bottom: 30px;
+}
+
+.botao {
+    cursor: pointer;
+    transition: 0.3s;
+}
